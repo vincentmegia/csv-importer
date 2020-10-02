@@ -1,0 +1,4 @@
+id,lastname,firstname,dateofbirth,ssn
+1,lastname1,firstname1,01/01/1980,1234
+2,lastname2,firstname2,01/02/1980,2345
+3,lastname3,firstname3,01/03/1980,3456
